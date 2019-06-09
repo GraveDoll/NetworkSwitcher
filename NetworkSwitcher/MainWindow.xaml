@@ -1,0 +1,20 @@
+﻿<Window x:Class="NetworkSwitcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetworkSwitcher"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="165.198" Width="515.987">
+    <Grid Margin="0,0,0,1">
+        <Button x:Name="button" Content="登録" HorizontalAlignment="Left" Margin="366,39,0,0" VerticalAlignment="Top" Width="121" Click="button_Click" Height="30"/>
+        <TextBox x:Name="textBox_networkAdapter1" HorizontalAlignment="Left" Height="23" Margin="173,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
+        <Label x:Name="label_networkAdapter1" Content="ネットワークアダプタ1" HorizontalAlignment="Left" Margin="11,37,0,0" VerticalAlignment="Top" Width="141"/>
+        <Label x:Name="label_networkAdapter2" Content="ネットワークアダプタ2" HorizontalAlignment="Left" Margin="11,70,0,0" VerticalAlignment="Top" Width="141"/>
+        <Label x:Name="label_networkAdapter3" Content="ネットワークアダプタ3" HorizontalAlignment="Left" Margin="11,100,0,0" VerticalAlignment="Top" Width="141"/>
+        <TextBox x:Name="textBox_networkAdapter2"  HorizontalAlignment="Left" Height="23" Margin="173,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
+        <TextBox x:Name="textBox_networkAdapter3" HorizontalAlignment="Left" Height="23" Margin="173,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
+        <Label x:Name="label" Content="切り替え対象となるネットワークアダプタの名前を登録してください。" HorizontalAlignment="Left" Margin="11,6,0,0" VerticalAlignment="Top" Width="476"/>
+
+    </Grid>
+</Window>
