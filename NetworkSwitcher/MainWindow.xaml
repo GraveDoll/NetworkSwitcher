@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NetworkSwitcher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="165.198" Width="515.987">
+        Title="NetworkSwitcher" Height="165.198" Width="515.987">
     <Grid Margin="0,0,0,1">
         <Button x:Name="button" Content="登録" HorizontalAlignment="Left" Margin="366,39,0,0" VerticalAlignment="Top" Width="121" Click="button_Click" Height="30"/>
         <TextBox x:Name="textBox_networkAdapter1" HorizontalAlignment="Left" Height="23" Margin="173,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
