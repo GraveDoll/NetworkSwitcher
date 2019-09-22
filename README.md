@@ -14,11 +14,11 @@ Windows 7 または Windws10
 - タスクトレイのアイコンを右クリックして表示されるメニューから「設定」を選択すると設定ダイアログが表示されます。
   - ネットワークデバイス名を入力して登録ボタンを押してください。ネットワークデバイス名は「コントロール パネル」→「ネットワークとインターネット」→「ネットワーク接続」から確認することができます。
   - ネットワークデバイスは３つまで登録することができます。
-  ![MainWindow](https://user-images.githubusercontent.com/28338314/65388725-b9dc6e80-dd89-11e9-84a7-ab82bd63bd50.png)
+  ![Setting](https://user-images.githubusercontent.com/28338314/65389881-5c4e1f00-dd95-11e9-8cd8-14df804e505d.png)
   
  - タスクトレイのアイコンを右クリックして表示されるメニューから登録したネットワークデバイスの有効・無効を切り替えることができます。
    - 選択したネットワークデバイスのみが有効になり、登録済みの他のネットワークデバイスは無効になります。
-   ![TaskBar](https://user-images.githubusercontent.com/28338314/65388728-bc3ec880-dd89-11e9-9629-bf14d8efe407.PNG)
+   ![TaskBar](https://user-images.githubusercontent.com/28338314/65389887-5f490f80-dd95-11e9-80c0-06803efab927.PNG)
 
 
 
