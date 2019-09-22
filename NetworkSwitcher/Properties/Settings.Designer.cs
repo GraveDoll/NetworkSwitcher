@@ -12,7 +12,7 @@ namespace NetworkSwitcher.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.9.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace NetworkSwitcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("アダプター1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("デバイス1")]
         public string adapterName1 {
             get {
                 return ((string)(this["adapterName1"]));
@@ -37,7 +37,7 @@ namespace NetworkSwitcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("アダプター2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("デバイス2")]
         public string adapterName2 {
             get {
                 return ((string)(this["adapterName2"]));
@@ -49,7 +49,7 @@ namespace NetworkSwitcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("アダプター3")]
+        [global::System.Configuration.DefaultSettingValueAttribute("デバイス3")]
         public string adapterName3 {
             get {
                 return ((string)(this["adapterName3"]));

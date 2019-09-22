@@ -3,13 +3,13 @@
   <Profiles />
   <Settings>
     <Setting Name="adapterName1" Type="System.String" Scope="User">
-      <Value Profile="(Default)">アダプター1</Value>
+      <Value Profile="(Default)">デバイス1</Value>
     </Setting>
     <Setting Name="adapterName2" Type="System.String" Scope="User">
-      <Value Profile="(Default)">アダプター2</Value>
+      <Value Profile="(Default)">デバイス2</Value>
     </Setting>
     <Setting Name="adapterName3" Type="System.String" Scope="User">
-      <Value Profile="(Default)">アダプター3</Value>
+      <Value Profile="(Default)">デバイス3</Value>
     </Setting>
   </Settings>
 </SettingsFile>
