@@ -14,7 +14,7 @@
         <Label x:Name="label_networkAdapter3" Content="ネットワークデバイス3" HorizontalAlignment="Left" Margin="11,100,0,0" VerticalAlignment="Top" Width="141"/>
         <TextBox x:Name="textBox_networkAdapter2"  HorizontalAlignment="Left" Height="23" Margin="173,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
         <TextBox x:Name="textBox_networkAdapter3" HorizontalAlignment="Left" Height="23" Margin="173,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182"/>
-        <Label x:Name="label" Content="切り替え対象となるネットワークアダプタの名前を登録してください。" HorizontalAlignment="Left" Margin="11,6,0,0" VerticalAlignment="Top" Width="476"/>
+        <Label x:Name="label" Content="切り替え対象となるネットワークデバイスの名前を登録してください。" HorizontalAlignment="Left" Margin="11,6,0,0" VerticalAlignment="Top" Width="476"/>
 
     </Grid>
 </Window>
